@@ -1,0 +1,104 @@
+<<<<<<< HEAD
+body {
+    background-color: white;
+    margin: 0;
+  }
+  
+  h1 {
+    color: navy;
+    
+    margin: 0px 0px 0px 0px
+  }
+
+  h2 {
+    font: bold 20pt/2em times new roman; 
+  }
+  
+  h3 {
+    color: darkgrey;
+    font: bold 14pt/1em helvetica;
+  }
+
+  h4 {
+    color: blue;
+    font: italic 16pt/1em helvetica;
+  }
+
+  p {
+    font: italic 12pt/2em arial;
+    margin: 30px; 
+  }
+
+  p1 {
+    font-weight: bold;
+    color: darkred;
+    padding: 8px 16px;
+  }
+  
+  p2 {
+    border: 2px solid navy;
+  }
+
+  p3 {
+    color: red;
+    margin: 10%;
+  }
+
+  p4 {
+    color: darkmagenta;
+    font: 12pt/em times new roman;
+  }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 10%;
+  background-color:black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  border: 2px solid black;
+}
+
+div {
+    margin-left:10%;
+    padding:1px 16px;
+    height:1000px;
+    border:3px solid black;
+    background-color: lightgray;
+}
+
+img {
+  float: left;
+  width: 100;
+  height: 100;
+}
+
+iframe {
+  width: 680;
+  height: 510;
+}
