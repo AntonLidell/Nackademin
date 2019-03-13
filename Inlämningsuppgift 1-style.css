@@ -29,7 +29,7 @@ body {
 
   p1 {
     font-weight: bold;
-    color: darkblue;
+    color: darkred;
     padding: 8px 16px;
   }
   
@@ -43,7 +43,7 @@ body {
   }
 
   p4 {
-    color: orange;
+    color: darkmagenta;
     font: 12pt/em times new roman;
   }
 
