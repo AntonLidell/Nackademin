@@ -92,5 +92,14 @@ div {
 }
 
 img {
-  float: left
+  float: left;
+  width: 100;
+  height: 100;
+}
+
+iframe {
+  frameborder: 0;
+  allowFullScreen: true;
+  width: 680;
+  height: 510;
 }
