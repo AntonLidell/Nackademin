@@ -1,5 +1,5 @@
 body {
-    background-color: darkgray;
+    background-color: white;
 
   }
 
@@ -11,7 +11,7 @@ div1 {
 }
 
 div2 {
-  width:950px;
+  width:850px;
   height:450px;
 }
 
@@ -23,6 +23,6 @@ div3 {
 }
 
 div4 {
-  width:950px;
+  width:650px;
   height:450px;
 }
